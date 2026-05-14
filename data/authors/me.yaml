@@ -47,9 +47,9 @@ interests:
 
 education:
   - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+    institution: University of Electronic Science and Technology of China
+    start: 2026-09-01
+    end: 2031-06-30
     summary: |
       Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
     button:
@@ -101,11 +101,11 @@ skills:
         level: 4
 
 languages:
-  - name: English
-    level: 5
+  - name: Chinese
+    level: #
     label: Native
-  - name: Spanish
-    level: 4
+  - name: English
+    level: 5/10
     label: Fluent
 
 awards:
