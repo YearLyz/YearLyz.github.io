@@ -22,7 +22,7 @@ bio: |
   I am interested in software engineering, XR systems, and AI agents.
 
 affiliations:
-  - name: "Your University"
+  - name: "University of Electronic Science and Technology of China "
     url: ""
 
 links:
@@ -36,9 +36,9 @@ interests:
 
 education:
   - degree: "BSc Computer Science"
-    institution: "Your University"
-    start: 2022-09-01
-    end: 2026-06-30
+    institution: "University of Electronic Science and Technology of China "
+    start: 2026-09-01
+    end: 2029-06-30
     summary: ""
 
 experience: []
