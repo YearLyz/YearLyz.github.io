@@ -16,10 +16,10 @@ postnominals: []
 status:
   icon: "☕️"
 
-role: "Student / Researcher"
+role: "Student"
 
 bio: |
-  I am interested in software engineering, XR systems, and AI agents.
+  My current research focuses on quantum optics, quantum plasmonics, and the application of quantum interferometers in near-field optical measurements.
 
 affiliations:
   - name: "University of Electronic Science and Technology of China "
@@ -31,11 +31,11 @@ links:
 
 interests:
   - Software Engineering
-  - XR Systems
+  - Physical Learning
   - AI Agents
 
 education:
-  - degree: "BSc Computer Science"
+  - degree: "Optical Engineering"
     institution: "University of Electronic Science and Technology of China "
     start: 2026-09-01
     end: 2029-06-30
